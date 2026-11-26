@@ -165,7 +165,7 @@ app/src/main/java/com/example/
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Sourabh-Vishwakarma/DermaVision.git
+   git clone https://github.com/sourabh7204/DermaVision-Final_Year_Project.git
    cd DermaVision
    ```
 
@@ -216,7 +216,8 @@ DermaVision includes unit testing, Android UI testing, and snapshot regression i
 
 | Author | Role | Contact | GitHub |
 |--------|------|---------|--------|
-| **Sourabh Vishwakarma** | Lead Android & AI Developer | support@dermavision.ai | [@Sourabh-Vishwakarma](https://github.com/Sourabh-Vishwakarma) |
+| **Sourabh Vishwakarma** | FSD & AI Developer | [@Sourabh-Vishwakarma](https://github.com/sourabh7204) |
+| **Sankeerth T** | Data Analyst & ML Devloper | [@Sankeerth-T](https://github.com/sankeerth-t7) |
 
 ### Key Contributions:
 - Core Android application architecture using Jetpack Compose, Coroutines & Flow.
