@@ -1,0 +1,63 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Outer Circular Swoosh Arc Frame -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 31.5,35.2 C 37.8,24.5 49.6,18.0 62.5,18.0 C 78.8,18.0 91.0,31.2 91.0,49.0 C 91.0,66.8 77.5,84.5 59.0,85.5 C 51.5,85.9 44.5,81.5 46.5,74.5 C 47.8,70.0 51.8,68.0 55.0,72.0 C 58.5,76.5 66.5,79.5 73.0,74.0 C 81.5,67.0 84.5,54.5 84.5,47.0 C 84.5,33.5 75.0,24.0 62.5,24.0 C 52.0,24.0 42.5,29.5 37.5,38.5 Z" />
+
+    <!-- Medical Plus Cross on Upper Left -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 32.0,36.0 L 37.5,36.0 L 37.5,30.5 L 43.5,30.5 L 43.5,36.0 L 49.0,36.0 L 49.0,42.0 L 43.5,42.0 L 43.5,47.5 L 37.5,47.5 L 37.5,42.0 L 32.0,42.0 Z" />
+
+    <!-- Serene Face & Neck Profile Silhouette -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 59.0,24.0 C 64.0,29.0 65.5,36.5 64.0,42.0 C 65.8,40.0 68.0,39.5 70.0,40.5 C 67.5,43.5 64.5,44.5 62.5,44.5 C 64.0,47.0 65.5,50.0 69.5,52.5 L 69.0,54.5 C 66.0,54.5 64.5,56.0 65.0,58.5 C 63.8,59.0 62.8,60.5 64.5,62.5 C 63.0,64.0 64.0,66.0 66.0,66.5 C 64.0,69.5 60.5,71.0 57.0,70.5 C 51.5,69.5 47.0,64.5 45.5,56.5 C 44.2,49.5 47.0,43.0 52.5,36.5 C 55.5,32.8 57.5,28.0 59.0,24.0 Z" />
+
+    <!-- Gentle Eyelash / Eye Arc -->
+    <path
+        android:strokeColor="#006A6A"
+        android:strokeWidth="1.6"
+        android:strokeLineCap="round"
+        android:pathData="M 60.0,47.5 Q 63.0,50.0 66.0,48.0" />
+
+    <!-- Eyebrow Arc -->
+    <path
+        android:strokeColor="#006A6A"
+        android:strokeWidth="1.8"
+        android:strokeLineCap="round"
+        android:pathData="M 60.5,42.0 Q 64.5,40.5 67.0,42.5" />
+
+    <!-- Dermal Dot Accents on Neck/Jaw -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 51.5,55.0 m -1.6,0 a 1.6,1.6 0 1,0 3.2,0 a 1.6,1.6 0 1,0 -3.2,0" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 55.5,57.5 m -1.6,0 a 1.6,1.6 0 1,0 3.2,0 a 1.6,1.6 0 1,0 -3.2,0" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 51.0,61.0 m -1.6,0 a 1.6,1.6 0 1,0 3.2,0 a 1.6,1.6 0 1,0 -3.2,0" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 55.0,63.5 m -1.6,0 a 1.6,1.6 0 1,0 3.2,0 a 1.6,1.6 0 1,0 -3.2,0" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 49.0,65.5 m -1.4,0 a 1.4,1.4 0 1,0 2.8,0 a 1.4,1.4 0 1,0 -2.8,0" />
+
+    <!-- Botanical Leaf 1 (Left Upper) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 40.5,76.5 C 33.0,73.0 25.0,62.0 24.0,50.0 C 32.5,52.5 38.0,60.5 40.5,76.5 Z" />
+
+    <!-- Botanical Leaf 2 (Left Lower) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 44.0,79.0 C 40.5,75.0 36.0,68.0 37.0,59.0 C 42.0,63.0 45.0,71.0 44.0,79.0 Z" />
+
+</vector>

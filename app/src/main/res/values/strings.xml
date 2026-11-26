@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DermaVision</string>
+    <string name="medical_disclaimer">DermaVision is a clinical screening and educational application. It does not provide a medical diagnosis and should not replace consultation with a qualified healthcare professional.</string>
+</resources>

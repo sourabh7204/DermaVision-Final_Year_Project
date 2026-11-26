@@ -1,0 +1,6 @@
+{
+  "name": "DermaVision",
+  "description": "AI-assisted skin disease screening and educational analysis platform powered by on-device intelligence and image quality verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
